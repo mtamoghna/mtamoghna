@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Tamoghna 😊
+### Hi there 👋, It's Tamoghna here 😊
 ## Quantum Chemistry software development
-I write Electronic Structure Theory codes. I really enjoy coding mathematical functions and optimizing them for best performance. I also like modelling Neural Networks using Tensorflow. Most of my projects are related to Quantum Chemistry.
+I write Electronic Structure Theory codes. I enjoy coding mathematical functions and optimizing them for best performance. I also like modelling Neural Networks using Tensorflow. Most of my projects are related to Quantum Chemistry.
 
 ## Skills: 
 💻 Python / Cython / Fortran / C++ / Tensorflow
